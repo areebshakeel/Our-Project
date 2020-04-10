@@ -1,0 +1,16 @@
+body{
+    background-image: url(./Assets/1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.signin{
+    opacity:90%;
+    border-radius: 8px;
+    background-color: black;
+    border: solid black;
+    height: 250;
+    width: 25%;
+    position: relative; top: 4rem; left: 32rem;
+}
